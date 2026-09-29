@@ -1,0 +1,12 @@
+[
+  {
+    "type": "rss",
+    "target": "https://bsky.app/profile/ユーザー名.bsky.social/rss",
+    "channel_id": "通知先のチャンネルID"
+  },
+  {
+    "type": "x",
+    "target": "nasa",
+    "channel_id": "通知先のチャンネルID"
+  }
+]
